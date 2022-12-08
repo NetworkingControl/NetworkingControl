@@ -1,7 +1,7 @@
 ### Hi there 👋
 ⚡ I love tools that make my life easier:
-      [] Docker
-      [] Terraform
+      - Docker
+      - Terraform
       
 🔭 I’m currently working on ... Terraform
 
