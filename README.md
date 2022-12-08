@@ -1,10 +1,10 @@
 ### Hi there 👋
 ⚡ I love tools that make my life easier:
       
-      🌱Docker
-      🌱Terraform
+      1)Docker
+      2)Terraform
       
-🔭 I’m currently working on ... Terraform
+🔭 I’m currently working on Terraform projects.
 
 <!--
 **NetworkingControl/NetworkingControl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
